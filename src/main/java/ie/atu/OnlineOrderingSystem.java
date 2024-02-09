@@ -6,6 +6,7 @@ public class OnlineOrderingSystem {
             new Burger("burger", 2.99, "cheese, sauce, lettuce"),
             new Salad("salad", 0.99, "lettuce, tomato"),
             new Pizza("pizza", 15.00, "peperoni, cheese, tomato sauce"),
+            new Dessert("cake", 5.45, "eggs, flour, wheat")
         };
 
         for(MenuItem menuItem: items) {
